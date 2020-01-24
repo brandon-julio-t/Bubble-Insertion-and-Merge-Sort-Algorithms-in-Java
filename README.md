@@ -1,6 +1,13 @@
 # Bubble, Insertion, and, Merge Sort Algorithms in Java
 
+## Background
+
 My university made me do these and it would be a waste not to keep these
+
+## Feature
+
+Code timing with `System.nanoTime()`.
+![That's all folks](https://upload.wikimedia.org/wikipedia/commons/e/ea/Thats_all_folks.svg)
 
 ## Additional Information
 
