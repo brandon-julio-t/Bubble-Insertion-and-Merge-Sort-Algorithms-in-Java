@@ -2,7 +2,7 @@
 
 ## Background
 
-My university made me do these and it would be a waste not to keep these
+Did these while studying in university. Though that it would be a waste not to keep these.
 
 ## Feature
 
